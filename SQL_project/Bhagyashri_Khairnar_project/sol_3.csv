@@ -1,0 +1,5 @@
+﻿profile_id,Full Name,phone,email_id,city,house_id,Move_In_Date,Move_Out_Date,rent,Total no. of referrals,latest_employer,occupational_category
+3,Bhaskar maheshwari,9.80E+09,bhaskar.mah@gmail.com,Bangalore,4,28-10-2015 00:00,28-11-2016,12000,1,Technicolor,Working
+2,Ashish Singh,9.88E+09,ashish.singh@gmail.com,Bangalore,2,05-06-2015 00:00,NULL,11000,2,hindustan unilever,Working
+6,Harish sahai,9.88E+09,harish294all@gmail.com,Bangalore,8,25-12-2015 00:00,NULL,10200,1,Aditya birla,Working
+5,Tanvi mann,9.18E+09,tanvi.mann1907@gmail.com,Bangalore,3,15-05-2015 00:00,27-12-2015,9000,3,GE Healthcare,Working
